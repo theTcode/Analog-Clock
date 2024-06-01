@@ -10,3 +10,8 @@ This project is an Analog Clock implemented using HTML, CSS, and JavaScript. The
 - **Real-Time Display**: The clock shows the current time, updating every second to ensure accurate timekeeping.
 - **Smooth Animation**: The movement of the clock hands is animated smoothly using CSS transitions and JavaScript.
 - **Responsive Design**: The clock is designed to be responsive, adjusting to different screen sizes while maintaining its aspect ratio.
+
+
+**Usage**
+
+This analog clock program is perfect for web developers looking to add a stylish, real-time clock to their web projects. The code is simple and easily customizable, making it a versatile addition to any website.
